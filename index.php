@@ -1,6 +1,6 @@
 <?php
 session_start();
-require_once('/var/www/html/snssetup.php');
+//require_once('/var/www/html/snssetup.php');
 ?>
 <!DOCTYPE html>
 <meta charset="UTF-8"> 
